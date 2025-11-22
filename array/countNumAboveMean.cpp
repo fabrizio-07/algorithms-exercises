@@ -6,6 +6,17 @@ Write a recursive function that counts how many elements, of an array A of lengt
 
 using namespace std;
 
+float getMean(int A[], int n){
+    
+    float mean=0;
+
+    for(int i=0;i<n;i++)
+        mean+=A[i];
+
+    return mean/n;
+
+}
+
 void printA(int A[], int n, float mean){
 
     cout<<"A = { ";
@@ -69,9 +80,7 @@ int main(int argc, char **argv){
 
     }
 
-    for(int i=0;i<n;i++)
-        mean+=A[i];
-    mean=mean/n;
+    mean=getMean(A,n);
 
     printA(A,n,mean);
 
