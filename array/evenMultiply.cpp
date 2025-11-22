@@ -54,6 +54,13 @@ int main(int argc, char **argv){
         cout<<"How many numbers do you want to insert in A?\t";
         cin>>n;
 
+        while(n<=0){
+
+            cout<<"A length must be positive. How many numbers do you want to insert in A?\t";
+            cin>>n;
+        
+        }
+
         A = new int[n];
 
         for(int i=0;i<n;i++){
