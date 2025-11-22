@@ -1,5 +1,5 @@
 /*
-Prodotto dei primi numeri dispari. Scrivere una funzione ricorsiva che calcoli il prodotto dei primi n numeri dispari positivi.
+Write a recursive function that calculates the multiplication of the first n odd positive numbers.
 */
 
 #include <iostream>

@@ -1,5 +1,5 @@
 /*
-Massimo comune divisore (MCD). Scrivere una funzione ricorsiva che calcoli il massimo comune divisore tra due numeri interi positivi a e b.
+Write a recursive function that calculates the greatest common divisor between two positive integers a and b.
 */
 
 #include <iostream>

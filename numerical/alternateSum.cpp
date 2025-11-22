@@ -1,6 +1,6 @@
 /*
-Scrivere una funzione ricorsiva che calcoli la somma alternata dei primi n interi positivi:
-S(n) = 1 - 2 + 3 - 4 + 5 - 6 + .. ± .
+Write a recursive function that calculates the alternated sum of the first n positive numbers:
+S(n) = 1 - 2 + 3 - 4 + 5 - 6 + .. ±n .
 */
 
 #include <iostream>

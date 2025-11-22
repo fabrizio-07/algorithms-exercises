@@ -1,5 +1,5 @@
 /*
-Conteggio delle cifre di un numero. Scrivere una funzione ricorsiva che, dato un numero intero positivo n, restituisca il numero di cifre che lo compongono.
+Write a recursive function that counts the number of digits of a given positive integer n.
 */
 
 #include <iostream>

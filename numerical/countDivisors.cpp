@@ -1,5 +1,5 @@
 /*
-Scrivere una funzione ricorsiva che conti quanti interi positivi dividono esattamente un dato numero n.
+Write a recursive function that counts the number of positive integers that divide exactely a given number n.
 */
 
 #include <iostream>

@@ -1,5 +1,5 @@
 /*
-Scrivere una funzione ricorsiva che calcoli la somma dei primi n numeri dispari positivi.
+Write a recursive function that calculates the sum of the first n odd positive numbers.
 */
 
 #include <iostream>

@@ -1,5 +1,5 @@
 /*
-Somma delle cifre di un numero. Scrivere una funzione ricorsiva che calcoli la somma delle cifre di un numero intero positivo n.
+Write a recursive function that sums the digits of a positive integer n.
 */
 #include <iostream>
 

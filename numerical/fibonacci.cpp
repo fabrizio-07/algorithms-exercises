@@ -1,5 +1,5 @@
 /*
-Scrivere una funzione ricorsiva che calcoli il termine n-esimo della successione di Fibonacci.
+Write a recursive function that calculates the n-th number of the Fibonacci's sequence.
 */
 
 #include <iostream>
