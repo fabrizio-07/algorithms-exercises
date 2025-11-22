@@ -45,8 +45,6 @@ int main(int argc, char **argv){
         for(int i=1;i<argc;i++)
             A[i-1]=stoi(argv[i]);
 
-        printA(A,n);
-
     }
 
     else{
@@ -68,9 +66,9 @@ int main(int argc, char **argv){
             cin>>A[i];
         }
 
-        printA(A,n);
-
     }
+
+    printA(A,n);
 
     cout<<"The multiplication of the even numbers in A is:\t"<<evenMultiply(A,n)<<endl;
 
