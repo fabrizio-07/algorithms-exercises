@@ -6,7 +6,7 @@ Write a recursive function that calculates the difference between the sum of eve
 
 using namespace std;
 
-void printA(int A[], int n){
+void printA(const int A[], int n){
 
     cout<<"A = { ";
     

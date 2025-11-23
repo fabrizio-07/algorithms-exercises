@@ -6,7 +6,7 @@ Write a recursive function which tells if the A array of n elements is symmetric
 
 using namespace std;
 
-void printA(int A[], int n){
+void printA(const int A[], int n){
 
     cout<<"A = { ";
     

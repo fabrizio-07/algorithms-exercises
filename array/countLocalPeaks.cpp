@@ -6,7 +6,7 @@ Write a recursive function that counts the number of local peaks of the A array,
 
 using namespace std;
 
-void printA(int A[], int n){
+void printA(const int A[], int n){
 
     cout<<"A = { ";
 

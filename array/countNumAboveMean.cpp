@@ -6,7 +6,7 @@ Write a recursive function that counts how many elements, of an array A of lengt
 
 using namespace std;
 
-float getMean(int A[], int n){
+float getMean(const int A[], int n){
     
     float mean=0;
 

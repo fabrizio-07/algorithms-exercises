@@ -6,7 +6,7 @@ Write a recursive function that multiply all the even elements of the A array, w
 
 using namespace std;
 
-void printA(int A[], int n){
+void printA(const int A[], int n){
 
     cout<<"A = { ";
 
