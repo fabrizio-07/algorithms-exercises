@@ -17,7 +17,7 @@ void printA(const int A[], int n){
 
 }
 
-unsigned long countLocalPeaks(int A[], int n){
+unsigned long countLocalPeaks(const int A[], int n){
 
     if(n<=2)
         return 0;

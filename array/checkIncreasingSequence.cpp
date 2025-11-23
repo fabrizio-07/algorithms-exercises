@@ -17,7 +17,7 @@ void printA(const int A[], int n){
 
 }
 
-bool checkIncreasingSequence(int A[], int n){
+bool checkIncreasingSequence(const int A[], int n){
 
     if(n<=2)
         return false;

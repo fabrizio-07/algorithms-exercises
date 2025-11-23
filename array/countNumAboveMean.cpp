@@ -17,7 +17,7 @@ float getMean(const int A[], int n){
 
 }
 
-void printA(int A[], int n, float mean){
+void printA(const int A[], int n, float mean){
 
     cout<<"A = { ";
 
@@ -28,7 +28,7 @@ void printA(int A[], int n, float mean){
 
 }
 
-unsigned long countNumAboveMean(int A[], int n, float mean){
+unsigned long countNumAboveMean(const int A[], int n, float mean){
     
     if(n==0)
         return 0;

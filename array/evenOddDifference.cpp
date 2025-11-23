@@ -17,7 +17,7 @@ void printA(const int A[], int n){
 
 }
 
-long evenOddDifference(int A[], int n){
+long evenOddDifference(const int A[], int n){
 
     if(n==0)
         return 0;

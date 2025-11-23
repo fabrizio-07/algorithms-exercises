@@ -17,7 +17,7 @@ void printA(const int A[], int n){
 
 }
 
-bool checkSymmetry(int A[], int start, int n){
+bool checkSymmetry(const int A[], int start, int n){
 
      if(n==0)
         return true;

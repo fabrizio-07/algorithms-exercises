@@ -17,7 +17,7 @@ void printA(const int A[], int n){
 
 }
 
-float getMean(int A[], int n){
+float getMean(const int A[], int n){
 
     if(n==0)
         return 0;

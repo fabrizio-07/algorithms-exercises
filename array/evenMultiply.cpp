@@ -17,7 +17,7 @@ void printA(const int A[], int n){
 
 }
 
-unsigned long evenMultiply(int A[], int n){
+unsigned long evenMultiply(const int A[], int n){
 
     if(n==0)
         return 1;

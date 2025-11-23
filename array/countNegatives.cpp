@@ -17,7 +17,7 @@ void printA(const int A[], int n){
 
 }
 
-unsigned short countNegatives(int A[], int n){
+unsigned short countNegatives(const int A[], int n){
 
     if(n==0)
         return 0;
