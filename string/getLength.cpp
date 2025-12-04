@@ -9,7 +9,7 @@ using namespace std;
 
 unsigned long getLength(const string &S, unsigned int i=0){
 
-    if(S[i]=='\0')
+    if(i>=S.length())
         return 0;
 
     else

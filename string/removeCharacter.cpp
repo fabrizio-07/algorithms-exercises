@@ -9,7 +9,7 @@ using namespace std;
 
 string removeCharacter(string &S, const char c, unsigned int i=0){
 
-    if(S[i]=='\0')
+    if(i>=S.length())
         return S;
 
     else if(S[i]==c){

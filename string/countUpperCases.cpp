@@ -10,7 +10,7 @@ using namespace std;
 
 unsigned long countUpperCases(const string &S, unsigned int i=0){
     
-    if(i==S.length())
+    if(i>=S.length())
         return 0;
 
     else if(isupper(S[i]))

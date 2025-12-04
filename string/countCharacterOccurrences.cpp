@@ -9,7 +9,7 @@ using namespace std;
 
 unsigned long countCharacterOccurrences(const string &S, const char c, unsigned int i=0){
 
-    if(S[i]=='\0')
+    if(i>=S.length())
         return 0;
 
     else if(S[i]==c)

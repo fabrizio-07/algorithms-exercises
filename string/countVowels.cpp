@@ -10,7 +10,7 @@ using namespace std;
 
 unsigned long countVowels(const string &S, unsigned int i=0){
 
-    if(S[i]=='\0')
+    if(i>=S.length())
         return 0;
 
     switch(tolower(S[i])){

@@ -9,7 +9,7 @@ using namespace std;
 
 string invertString(const string &S, unsigned int i=0){
 
-    if(i==S.length())
+    if(i>=S.length())
         return "";
 
     else{
