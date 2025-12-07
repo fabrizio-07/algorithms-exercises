@@ -1,10 +1,18 @@
 # Solutions of 'Ricorsione.pdf'
 
-### Programming Language
-C++
+### Structure
+
+The repository is organized in this way:
+
+- **`lib/`**: Contains the template-based BST implementation.
+- **`src/`**: Contains the solution files organized by category:
+  - `src/array/`: Recursion exercises on arrays.
+  - `src/numerical/`: Mathematical recursion exercises.
+  - `src/string/`: Recursion exercises on strings.
+  - `src/bst/`: Recursion exercises on Binary Search Trees (currently work in progress).
 
 ### How to compile
-This tutorial is meant to explain how to execute these solution using `POSIX` machines.
+This section is meant to explain how to execute these solution using `POSIX` machines.
 First of all, let's compile the file using a `C++` compiler (e.g. `g++`) by shell, which should create an executable file. It can be done using:
 
 ```bash
