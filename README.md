@@ -1,6 +1,6 @@
 # Solutions of 'Ricorsione.pdf'
 
-### Structure
+## Structure
 
 The repository is organized in this way:
 
@@ -38,3 +38,6 @@ There are two ways to execute it:
 
 #### N.B.
 The `argv`s, depend on what the program does.
+
+## Any troubles?
+You can find me on Telegram as [Avaja_mbare](https://t.me/Avaja_mbare)
