@@ -48,6 +48,8 @@ int main(int argc, char **argv){
 
     }
 
+    tree.printTree();
+
     cout<<"The BST has "<<countNodes(tree.getRoot())<<" nodes."<<endl;
 
     return 0;

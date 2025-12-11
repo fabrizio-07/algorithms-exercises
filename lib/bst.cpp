@@ -56,3 +56,26 @@ void BST::insert(const int value){
         parent->setRight(newNode);
 
 }
+
+void BST::printTree(Node *node){    
+    
+    if(node){
+
+        std::cout<<node->getValue()<<" ";
+
+        printTree(node->getLeft());
+        printTree(node->getRight());
+
+    }
+
+}
+
+void BST::printTree(){
+
+    std::cout<<"BST = { ";
+
+    printTree(root);
+
+    std::cout<<"}   (preorder visit)"<<std::endl;
+
+}

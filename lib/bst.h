@@ -39,13 +39,18 @@ private:
     //  helper function for destructor
     void deleteSubtree(Node *);
 
+    //  helper function for printTree
+    void printTree(Node *);
+
 public:
     BST(Node *newRoot=nullptr) : root(newRoot){std::cout<<"Creating BST..."<<std::endl;}
     ~BST();
 
     const Node *getRoot() const {return root;}
 
+    //  generic bst functions
     void insert(const int);
+    void printTree();
 
 };
 
