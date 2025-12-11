@@ -4,7 +4,7 @@
 
 The repository is organized in this way:
 
-- **`lib/`**: Contains the template-based BST implementation.
+- **`lib/`**: Contains the BST implementation.
 - **`src/`**: Contains the solution files organized by category:
   - `src/array/`: Recursion exercises on arrays.
   - `src/numerical/`: Mathematical recursion exercises.
