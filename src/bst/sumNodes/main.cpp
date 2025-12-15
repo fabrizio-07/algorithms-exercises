@@ -1,5 +1,5 @@
 #include <iostream>
-#include "function.h"
+#include "sumNodes.h"
 
 using namespace std;
 

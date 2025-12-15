@@ -1,5 +1,5 @@
 #include <iostream>
-#include "function.h"
+#include "checkBST.h"
 
 using namespace std;
 
