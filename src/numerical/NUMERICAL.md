@@ -26,11 +26,11 @@ or passing arguments to the program:
 
 `argv`s depends on what the program does. Follows a list of what they mean in each `.cpp` file:
 
--  *oddSum.cpp*: it allows one argument, which is the number of odd numbers to sum.
-- *digitsCount.cpp*: it allows one argument, which is the number to count the digits of.
-- *sumDigits.cpp*: it allows one argument, which is the number to sum the digits of.
-- *gcd.cpp*: it allows two arguments, which are the numbers to calculate the greatest common divisor of.
-- *countDivisors.cpp*: it allows one argument, which is the number to count the divisors of.
-- *oddMultiply.cpp*: it allows one argument, which is the number of odd numbers to multiply.
-- *fibonacci.cpp*: it allows one argument, which is the i-th number of the Fibonacci sequence to be computed.
-- *alternateSum.cpp*: it allows one argument, which is the i-th term of the alternating sum to calculate.
+-  *oddSum.cpp*: it allows one `int` argument, which is the number of odd numbers to sum.
+- *digitsCount.cpp*: it allows one `int` argument, which is the number to count the digits of.
+- *sumDigits.cpp*: it allows one `int` argument, which is the number to sum the digits of.
+- *gcd.cpp*: it allows two `int` arguments, which are the numbers to calculate the greatest common divisor of.
+- *countDivisors.cpp*: it allows one `int` argument, which is the number to count the divisors of.
+- *oddMultiply.cpp*: it allows one `int` argument, which is the number of odd numbers to multiply.
+- *fibonacci.cpp*: it allows one `int` argument, which is the i-th number of the Fibonacci sequence to be computed.
+- *alternateSum.cpp*: it allows one `int` argument, which is the i-th term of the alternating sum to calculate.

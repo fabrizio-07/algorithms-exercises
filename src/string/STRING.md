@@ -26,12 +26,12 @@ or passing arguments to the program:
 
 `argv`s depends on what the program does. Follows a list of what they mean in each `.cpp` file:
 
--  *getLength.cpp*: it allows `n` arguments, which are the string whose to calculate the length of.
-- *countCharacterOccurrences.cpp*: it allows `n` arguments, which are the string whose to calculate the occurrences of the character.
-- *isPalindrome.cpp*: it allows `n` arguments, which are the string whose to check if it's palindrome.
-- *removeCharacter.cpp*: it allows `n` arguments, which are the string whose to remove the character. 
-- *countVowels.cpp*: it allows `n` arguments, which are the string whose to count the number of vowels.
-- *countUpperCases.cpp*: it allows `n` arguments, which are the string whose to count the number of upper case characters.
-- *checkSubstring.cpp*: it allows `n` arguments, which are the string whose to check if it contains a substring.
-- *removeNumbers.cpp*: it allows `n` arguments, which are the string whose to remove numerical values.
-- *countWords.cpp*: it allows `n` arguments, which are the string whose to count the number of words which made it.
+-  *getLength.cpp*: it allows `n` `alphanumerical` arguments, which are the string whose to calculate the length of.
+- *countCharacterOccurrences.cpp*: it allows `n` `alphanumerical` arguments, which are the string whose to calculate the occurrences of the character.
+- *isPalindrome.cpp*: it allows `n` `alphanumerical` arguments, which are the string whose to check if it's palindrome.
+- *removeCharacter.cpp*: it allows `n` `alphanumerical` arguments, which are the string whose to remove the character. 
+- *countVowels.cpp*: it allows `n` `alphanumerical` arguments, which are the string whose to count the number of vowels.
+- *countUpperCases.cpp*: it allows `n` `alphanumerical` arguments, which are the string whose to count the number of upper case characters.
+- *checkSubstring.cpp*: it allows `n` `alphanumerical` arguments, which are the string whose to check if it contains a substring.
+- *removeNumbers.cpp*: it allows `n` `alphanumerical` arguments, which are the string whose to remove numerical values.
+- *countWords.cpp*: it allows `n` `alphanumerical` arguments, which are the string whose to count the number of words which made it.
