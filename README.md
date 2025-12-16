@@ -12,7 +12,7 @@ The repository is organized in this way:
   - `src/bst/`: Recursion exercises on Binary Search Trees (currently work in progress).
 
 ### How to compile
-Every section of `src` directory shows how to compile each files on `POSIX` machines using `g++` compiler.
+Every section of `src` directory contains a `.md` file, which shows how to compile each files on `POSIX` machines using `g++` compiler.
 
 ## Any troubles?
 You can find me on Telegram as [Avaja_mbare](https://t.me/Avaja_mbare)
