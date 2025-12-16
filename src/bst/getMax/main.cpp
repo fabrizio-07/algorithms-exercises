@@ -22,7 +22,7 @@ int main(int argc, char **argv){
 
     else{
 
-        unsigned int dim=0;
+        int dim=0;
 
         cout<<"How many elements would you like to insert in the BST?\t";
         cin>>dim;
