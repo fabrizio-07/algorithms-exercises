@@ -9,7 +9,7 @@ The repository is organized in this way:
   - `src/array/`: Recursion exercises on arrays.
   - `src/numerical/`: Mathematical recursion exercises.
   - `src/string/`: Recursion exercises on strings.
-  - `src/bst/`: Recursion exercises on Binary Search Trees (currently work in progress).
+  - `src/bst/`: Recursion exercises on Binary Search Trees.
 
 ### How to compile
 Every section of `src` directory contains a `.md` file, which shows how to compile each files on `POSIX` machines using `g++` compiler.

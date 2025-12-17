@@ -44,6 +44,7 @@ or passing arguments to the program:
 - *sumPath.h*: it allows `n` `int` arguments, which are the nodes of the BST, in which to calculate if is there any path from root to any leaves, so that the sum of its nodes values is equal to a certain value.
 - *sumLevelNodes.h*: it allows `n` `int` arguments, which are the nodes of the BST, in which to sum the nodes values of a certain level of it.
 - *sumRange.h*: it allows `n` `int` arguments, which are the nodes of the BST, in which to sum the nodes values included in a range of bounds a and b.
+- *copyBST.h*: it allows `n` `int` arguments, which are the nodes of the BST, whose will be copied in the new BST.
 
 ### N.B.
 *BSTCmp* doesn't allow any arguments.
