@@ -43,6 +43,7 @@ or passing arguments to the program:
 - *countSingleChildNodes.h*: it allows `n` `int` arguments, which are the nodes of the BST, in which to count the number of nodes with only one child.
 - *sumPath.h*: it allows `n` `int` arguments, which are the nodes of the BST, in which to calculate if is there any path from root to any leaves, so that the sum of its nodes values is equal to a certain value.
 - *sumLevelNodes.h*: it allows `n` `int` arguments, which are the nodes of the BST, in which to sum the nodes values of a certain level of it.
+- *sumRange.h*: it allows `n` `int` arguments, which are the nodes of the BST, in which to sum the nodes values included in a range of bounds a and b.
 
 ### N.B.
 *BSTCmp* doesn't allow any arguments.
